@@ -1,6 +1,10 @@
-# CSCI3308_Lab3
+CSCI3308_Lab3
 <<<<<<< HEAD
+Sergio mergetool edit<<<<<<< HEAD
 Sergio Nogueira
+=======
+Payman
+>>>>>>> aa0a78cbaa99d2840257d059bb1081cf2dce733c
 =======
 HI
 HI
